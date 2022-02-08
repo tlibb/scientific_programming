@@ -1,0 +1,3 @@
+ clang++ -std=c++11 -o test.x program.cp
+
+tell clang to use the standard library from 2011 (default is 2003 but that is too old)
